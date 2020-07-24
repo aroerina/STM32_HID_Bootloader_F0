@@ -1,0 +1,12 @@
+# =========================
+# Generated Files
+# =========================
+
+*.dis
+*.elf
+*.hex
+*.lst
+*.map
+*.size
+.metadata
+RemoteSystemsTempFiles
