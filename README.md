@@ -3,7 +3,7 @@ Simple USB HID Bootloader for STM32F0xx series
 
 [bootsector/stm32-hid-bootloader](https://github.com/bootsector/stm32-hid-bootloader) 
 
-[Serasidis/STM32_HID_Bootloader](https://github.com/bootsector/stm32-hid-bootloader) 
+[Serasidis/STM32_HID_Bootloader](https://github.com/Serasidis/STM32_HID_Bootloader) 
 
 
 This is a USB HID bootloader for the STM32F0xx series.
@@ -22,7 +22,7 @@ Simple USB HID Bootloader for STM32F0xx series
 
 [bootsector/stm32-hid-bootloader](https://github.com/bootsector/stm32-hid-bootloader) 
 
-[Serasidis/STM32_HID_Bootloader](https://github.com/bootsector/stm32-hid-bootloader) 
+[Serasidis/STM32_HID_Bootloader](https://github.com/Serasidis/STM32_HID_Bootloader) 
 
 
 STM32F0xxシリーズ用USB HIDブートローダーです。
