@@ -1,5 +1,5 @@
 # STM32_HID_Bootloader_F0
-Simple USB HID Bootloader fo STM32F0xx series
+Simple USB HID Bootloader for STM32F0xx series
 
 [bootsector/stm32-hid-bootloader](https://github.com/bootsector/stm32-hid-bootloader) 
 
@@ -18,7 +18,7 @@ You can use the downloadable CLI application in the repositories of the above tw
 ---
 
 # STM32_HID_Bootloader_F0
-Simple USB HID Bootloader fo STM32F0xx series
+Simple USB HID Bootloader for STM32F0xx series
 
 [bootsector/stm32-hid-bootloader](https://github.com/bootsector/stm32-hid-bootloader) 
 
