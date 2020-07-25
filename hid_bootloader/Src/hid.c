@@ -80,8 +80,8 @@ static const uint8_t USB_DeviceDescriptor[] __ALIGNED(4) = {
 	0x00,			// bDeviceSubClass
 	0x00,			// bDeviceProtocol
 	MAX_PACKET_SIZE,	// bMaxPacketSize0 8
-	PRODUCT_ID_L, PRODUCT_ID_H,		// idVendor 0x1209
-	VENDOR_ID_L, VENDOR_ID_H,		// idProduct 0xBEBA
+	VENDOR_ID_L, VENDOR_ID_H,	// idVendor 0x1209 
+	PRODUCT_ID_L, PRODUCT_ID_H,	// idProduct 0xBEBA
 	0x00, 0x03,		// bcdDevice 3.00
 	0x01,			// iManufacturer (String Index)
 	0x02,			// iProduct (String Index)

@@ -2,11 +2,11 @@
 #define __CONFIG_H
 
 // USB product id =0x1209
-#define		PRODUCT_ID_H		0x12
-#define		PRODUCT_ID_L		0x09
+#define		PRODUCT_ID_H		0xBE 
+#define		PRODUCT_ID_L		0xBA 
 // USB vendor  id =0xBEBA
-#define		VENDOR_ID_H			0xBE
-#define		VENDOR_ID_L			0xBA
+#define		VENDOR_ID_H			0x12
+#define		VENDOR_ID_L			0x09
 
 /* Flash memory base address */
 #define 	FLASH_BASE_ADDRESS	0x08000000
