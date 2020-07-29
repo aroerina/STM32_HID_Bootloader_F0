@@ -256,6 +256,12 @@ static void HIDUSB_HandleData(uint8_t *data)
 
 			/* Reboot MCU Command */
 			UploadFinished = true;
+
+			/* Reset the USB */
+			USB_Shutdown();
+
+			/* Reset the STM32 */
+			NVIC_SystemReset();
 		break;
 
 		default:
